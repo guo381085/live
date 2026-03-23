@@ -1,0 +1,14 @@
+{
+  "spider": "http://tv.laohu.cool/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886",
+  "wallpaper": "https://api.kdcc.cn",
+  "sites": [],
+  "parses": [],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://live.lizanyang.top/hn.m3u",
+      "epg": ""
+    }
+  ]
+}
