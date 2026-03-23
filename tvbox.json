@@ -13,7 +13,19 @@
     "type": 1,
     "url": "https://gitee.com/why006/TV/raw/master/hnyd.txt",
     "playertype": 1
-  }
+     },
+  {
+      "name": "平台直播",
+      "type": 1,
+      "url": "http://47.120.41.246:8899/xinzb.txt",
+      "playerType": 1
+    },
+  {
+      "name": "港澳台",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1
+    }
   ],
   "sites": [
     {
