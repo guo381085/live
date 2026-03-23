@@ -3,15 +3,10 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "https://live.lizanyang.top/hn.m3u"
-          ]
-        }
-      ]
+      "name": "live",
+      "type": 0,
+      "url": "https://live.lizanyang.top/hn.m3u",
+      "epg": "https://live.lizanyang.top/e.xml"
     }
   ],
   "sites": [
